@@ -12,6 +12,6 @@ First! head over to https://zdoom.org/downloads and download the latest version 
 
 Then simply download whatever map you want to play and drag it over the Gzdoom.exe inside the folder you unzipped and bam! Hopefully you are now playing the latest version of my doom map's! If you run into any issues be sure to contact me though the contacts listed on my profile!
 
-### Extra Info
+## Extra Info
 
 Considering this is a list of ALL of my map's, there are some older one's with relatively poorly written code from when I was 16 (this is in reference too wavemap.WAD specifically) and they dont acurately reflect my current sklill's. I feel its important to showcase them regardless as I take pride in being able to develop that map so early on in my childhood, in addition to it being the first ever big personal project I worked on alone.
