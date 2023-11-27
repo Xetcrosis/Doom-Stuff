@@ -6,6 +6,6 @@ make a bool variable to see if a wave is active, if it is NOT then enable it and
 
 every timer a player fails to kill all the monsters an extra archvile will be added to the next wave. this effect stacks.
 
-### Map Layout
+## Map Layout
 
 indoor area improvment
