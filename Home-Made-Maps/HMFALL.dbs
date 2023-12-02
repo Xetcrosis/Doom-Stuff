@@ -21,11 +21,11 @@ maps
 				requiredarchives = "";
 			}
 		}
-		defaultfloortexture = "RROCK04";
-		defaultceiltexture = "F_SKY1";
-		defaulttoptexture = "ROCK4";
-		defaultwalltexture = "ROCK4";
-		defaultbottomtexture = "ROCK4";
+		defaultfloortexture = "FLAT10";
+		defaultceiltexture = "FLOOR7_1";
+		defaulttoptexture = "STONE3";
+		defaultwalltexture = "STONE3";
+		defaultbottomtexture = "STONE3";
 		custombrightness = 196;
 		customfloorheight = 0;
 		customceilheight = 128;
@@ -38,9 +38,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -13680.67f;
-		viewpositiony = 3321.791f;
-		viewscale = 0.3937313f;
+		viewpositionx = -14348.65f;
+		viewpositiony = 2863.163f;
+		viewscale = 0.2802128f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -51,7 +51,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 128;
+			gridsize = 256;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
